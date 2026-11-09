@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+Pillow
+matplotlib
+colour-science
